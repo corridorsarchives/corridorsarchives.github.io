@@ -1,7 +1,7 @@
 body{
     margin:0;
     font-family:Arial,Helvetica,sans-serif;
-    background:#f6f6f6;
+    background:#FDF3D0;
     display:flex;
 }
 
@@ -17,7 +17,7 @@ body{
     display:block;
     padding:8px;
     text-decoration:none;
-    color:#0645ad;
+    color:#FBE6A3;
 }
 
 .sidebar a:hover{
