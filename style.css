@@ -7,7 +7,7 @@ body{
 
 .sidebar{
     width:240px;
-    background:#FBE6A3;
+    background:#F2E0B3;
     padding:20px;
     min-height:100vh;
     border-right:1px solid #ccc;
@@ -17,7 +17,7 @@ body{
     display:block;
     padding:8px;
     text-decoration:none;
-    color:white;
+    color:black;
 }
 
 .sidebar a:hover{
