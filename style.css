@@ -37,4 +37,5 @@ h1{
 .Header{
     flex:1;
     padding:40px;
+    color:gray;
 }
